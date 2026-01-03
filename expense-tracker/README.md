@@ -140,7 +140,4 @@ expense-tracker/
 
 5. **Export Data**: Use the Export CSV button to download your expense data.
 
-## License
-
-MIT
 
